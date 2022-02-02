@@ -51,6 +51,7 @@
     "appium-mac-driver": "1.x",
     "appium-mac2-driver": "^0.x",
     "appium-safari-driver": "^2.1.0",
+    "appium-socket-driver": "file:../appium-socket-driver-1.0.0.tgz",
     "appium-support": "2.x",
     "appium-tizen-driver": "^1.1.1-beta.4",
     "appium-uiautomator2-driver": "^1.37.1",
